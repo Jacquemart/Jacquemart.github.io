@@ -6,7 +6,7 @@ May be a list
 
 A new paragraph
 
-*this is the first item
-*this is the second item 
+* this is the first item
+* this is the second item 
 
 a new paragraph
